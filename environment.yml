@@ -1,0 +1,9 @@
+name: pc_vlww
+channels:
+  - https://conda.software.inl.gov/public
+  - defaults
+  - conda-forge
+dependencies:
+  - pycalphad
+  - jupyterlab
+prefix: /home/tobias/mambaforge3/envs/pc_vlww
